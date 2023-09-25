@@ -1,0 +1,92 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.3;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 15px;
+}
+.header{
+    background-color: #333033;
+    color: aqua;
+    text-align: center;
+    padding: 0;
+}
+.header h1 {
+    margin: 0;
+  }
+  
+  .about img {
+    max-width: 28%;
+    height: auto;
+    border-radius: 10px;
+    border: 5px solid black;
+    float: left;
+    margin-right: 15px;
+    padding: 5px;
+
+
+  }
+  .about p{
+    font-size: medium;
+    font-weight: 600;
+    line-height: 2;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .skills{
+    margin:100px 0px;
+  }
+  .skills ul {
+    list-style-type: style square;
+    padding: 0;
+  }
+  
+  .skills li {
+    margin-bottom: 10px;
+    margin: 20px;
+  }
+  
+  .projects{
+    margin: 50px;
+  }
+  .project{
+    margin: 50px;
+  }
+  .projects img {
+    max-width: 100%;
+    height: auto;
+   border-radius: 10px;
+   border: 5px solid black;
+  }
+  
+  .projects .project {
+    margin-bottom: 20px;
+  }
+  
+  .resume a {
+    color: #e11818;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .resume a:hover {
+    color: #06ea21;
+  }
+  
+  .contact p {
+    margin: 0;
+    margin-bottom: 5px;
+  }
+  
+  .footer {
+    background-color: #b5afaf;
+    color: #fff;
+    text-align: center;
+    
+  }
+.footer a{
+    color: rgb(29, 14, 238);
+}
